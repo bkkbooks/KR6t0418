@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6t0418/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0418/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0418_001-T.yaml, hash: 'sha256:55b4782507cd375e6475a3d4d0cefeeb5f7470028c5fae1fdd9faaa9e785f03a'}
+  - {seq: 2, filename: KR6t0418_002-T.yaml, hash: 'sha256:112b19964581f25aebd759dc740aa00b7aa1824c56eea34b2e70f9ed5a66f37f'}
+  - {seq: 3, filename: KR6t0418_003-T.yaml, hash: 'sha256:76807419b0cb76d285c083ef2da18fd1e8c65185eef01b53bdc67aa445c9f693'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0418_001-T.markers.yaml, hash: 'sha256:bdd616df84a463f9fadbd04456f32f9faf285318a43360dc1eadf2f8142646f2'}
+  - {seq: 2, role: markers, filename: assets/KR6t0418_002-T.markers.yaml, hash: 'sha256:ca48fa90ad45511e1b657fc48d8196ae1b03667417855474002dbe2e9fd92338'}
+  - {seq: 3, role: markers, filename: assets/KR6t0418_003-T.markers.yaml, hash: 'sha256:e4124f4e0b1c3794db38be1d319acd195babb154165eb770452b0008e027e225'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 16651
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 25274
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 32348
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6t0418_T_003-0612a02.h.3
+    span:
+    - body
+    - 0
+    - 32348
+  label: 多羅葉記卷下
+  type: section
+  level: 2
+metadata:
+  title: 多羅葉記
+  identifiers:
+    krp: KR6t0418
+    canon: T
+    vol: '84'
+    'no': '2707'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0418.xml
+  edition:
+    short: T
+hash: sha256:1c24d525f4a668849430a254b67fb2185993c421e7a530b550cf436cb6b9f372
