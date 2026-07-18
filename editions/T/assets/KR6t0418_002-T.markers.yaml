@@ -1729,6 +1729,7 @@ markers:
   - {type: indent, offset: 4851, content: 　, id: ''}
   - {type: line-break, offset: 4853, content: '', id: T_0592a12}
   - {type: punctuation, offset: 4855, content: (, id: ''}
+  - {type: voice, offset: 4855, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 4858, content: ), id: ''}
   - {type: indent, offset: 4858, content: 　, id: ''}
   - {type: indent, offset: 4858, content: 　, id: ''}
@@ -8535,4 +8536,4 @@ markers:
   - {type: indent, offset: 25260, content: 　, id: ''}
   - {type: indent, offset: 25260, content: 　, id: ''}
   back: []
-hash: sha256:ca48fa90ad45511e1b657fc48d8196ae1b03667417855474002dbe2e9fd92338
+hash: sha256:b70cd43490aceaec3c2a871c18a6b7adfd057f0fd2a8efbe8b51ea3bac664d80

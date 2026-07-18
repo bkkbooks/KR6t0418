@@ -1900,6 +1900,7 @@ markers:
   - {type: indent, offset: 4851, content: 　, id: ''}
   - {type: line-break, offset: 4853, content: '', id: T_0592a12}
   - {type: punctuation, offset: 4855, content: (, id: ''}
+  - {type: voice, offset: 4855, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 4858, content: ), id: ''}
   - {type: indent, offset: 4858, content: 　, id: ''}
   - {type: indent, offset: 4858, content: 　, id: ''}
@@ -9369,4 +9370,4 @@ markers:
   - {type: substitution, offset: 25261, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: substitution, offset: 25264, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   back: []
-hash: sha256:3b3f29031c95f08fa65bf90f68e78edbb5dad228a5c3f3deac9b3fcb9c5dcc9e
+hash: sha256:bc0e439bd26f63b2a2ae1fd8731e0e97451ca7855e7fe642ecea56f4c9f0fab0

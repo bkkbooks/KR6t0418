@@ -9,9 +9,9 @@ assets:
   - {seq: 2, filename: KR6t0418_002-T.yaml, hash: 'sha256:112b19964581f25aebd759dc740aa00b7aa1824c56eea34b2e70f9ed5a66f37f'}
   - {seq: 3, filename: KR6t0418_003-T.yaml, hash: 'sha256:76807419b0cb76d285c083ef2da18fd1e8c65185eef01b53bdc67aa445c9f693'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6t0418_001-T.markers.yaml, hash: 'sha256:bdd616df84a463f9fadbd04456f32f9faf285318a43360dc1eadf2f8142646f2'}
-  - {seq: 2, role: markers, filename: assets/KR6t0418_002-T.markers.yaml, hash: 'sha256:ca48fa90ad45511e1b657fc48d8196ae1b03667417855474002dbe2e9fd92338'}
-  - {seq: 3, role: markers, filename: assets/KR6t0418_003-T.markers.yaml, hash: 'sha256:e4124f4e0b1c3794db38be1d319acd195babb154165eb770452b0008e027e225'}
+  - {seq: 1, role: markers, filename: assets/KR6t0418_001-T.markers.yaml, hash: 'sha256:e4ea3dda8c3683ad8fcfb4742450c506042475f0fbdd229f489596e79fd70ca0'}
+  - {seq: 2, role: markers, filename: assets/KR6t0418_002-T.markers.yaml, hash: 'sha256:b70cd43490aceaec3c2a871c18a6b7adfd057f0fd2a8efbe8b51ea3bac664d80'}
+  - {seq: 3, role: markers, filename: assets/KR6t0418_003-T.markers.yaml, hash: 'sha256:903d05d62c54350b242fc664b9f8318a092dcb364235522a82717b0b3ec77fd3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,4 @@ metadata:
     path: data/tls/KR6t0418.xml
   edition:
     short: T
-hash: sha256:1c24d525f4a668849430a254b67fb2185993c421e7a530b550cf436cb6b9f372
+hash: sha256:330c3c4fc20e3be3ce6bd94cf8fd2c9e0bf9ee46b6078961d75d1213ec7c3c06
